@@ -9,4 +9,6 @@
 * Anne Pro 2
 
 ## NocFree
-* NocFree Lite
+* [NocFree Lite](https://www.nocfree.com/products/nocfree-lite)
+* [Vial Web](https://vial.rocks/)
+* wired and wireless version are different UUIDs in the config
