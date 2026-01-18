@@ -1,9 +1,10 @@
 # Keyboard Config
 * A repo for custom keyboard configuration
 
-## Nuphy
-* Air 60
-* Air 75
+## [Nuphy](https://nuphy.com/)
+* Air 60 V2
+* Air 75 V2
+* [Via](https://usevia.app/)
 
 ## Obinslab
 * Anne Pro 2
