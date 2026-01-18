@@ -8,7 +8,7 @@
 * [Via](https://usevia.app/)
     * From Chromium browser
 
-## Obinslab
+## [Obins Kit](https://www.hexcore.xyz/obinskit)
 * Anne Pro 2
 
 ## NocFree
