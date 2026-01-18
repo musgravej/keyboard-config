@@ -1,5 +1,6 @@
 # Keyboard Config
 * A repo for custom keyboard configuration
+* Unless otherwise specified, these configs are designed for Mac OS
 
 ## [Nuphy](https://nuphy.com/)
 * Air 60 V2
